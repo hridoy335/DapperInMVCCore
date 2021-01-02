@@ -119,3 +119,6 @@ D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\DapperInMV
 D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Test\ViewStudent.cshtml.g.cs
 D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Test\EditStudent.cshtml.g.cs
 D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Test\DeleteStudent.cshtml.g.cs
+D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\ViewTeacher.cshtml.g.cs
+D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\CreateTeacher.cshtml.g.cs
+D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\EditTeacher.cshtml.g.cs
