@@ -122,3 +122,6 @@ D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\View
 D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\ViewTeacher.cshtml.g.cs
 D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\CreateTeacher.cshtml.g.cs
 D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\EditTeacher.cshtml.g.cs
+D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Course\ViewCourse.cshtml.g.cs
+D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Course\CreateCourse.cshtml.g.cs
+D:\My Project\DapperInMVCCore\DapperInMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Course\EditCourse.cshtml.g.cs
